@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Tiwari @78PT
-- 👀 I’m interested in AI, ML, and entrepreneurship.
+- 👀 I’m interested in AI, ML, and software development.
 - 🌱 I’m currently a student at the University of Texas at Austin studying computer science. 
 - 📫 How to reach me: pranavtiwari30@gmail.com; www.linkedin.com/in/pranavtiw
 
